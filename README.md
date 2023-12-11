@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/al34n1x" target="blank"><img src="https://img.shields.io/twitter/follow/al34n1x?logo=twitter&style=for-the-badge" alt="al34n1x" /></a> </p>
 
-- 🔭 I’m currently working on [Oracle](www.oracle.com)
+- 🔭 I’m currently working at [Oracle](www.oracle.com)
 
 - 🌱 I’m currently learning **Master Degree on Artificial Intelligence**
 
